@@ -1,6 +1,6 @@
 """Some docstring on top"""
 
-def add(a, b) -> float:
+def add2(a, b) -> float:
     """doc string"""
 
     a = a + 1
